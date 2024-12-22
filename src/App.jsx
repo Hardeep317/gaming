@@ -7,7 +7,7 @@ import Features from './components/Features'
 
 const App = () => {
   return (
-    <div className="relative min-h-screen w-screen overflow-x-hidden bg-zinc-600">
+    <div className="relative min-h-screen w-screen overflow-x-hidden ">
       <Navbar />
       <Hero/>
     <About />
